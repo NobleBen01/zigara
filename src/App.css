@@ -1,0 +1,110 @@
+/* .navbar-nav > li{
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.navbar-nav > li{
+  margin-left:10px;
+  margin-right:10px;
+} */
+
+body {
+  padding-top: 50px;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 145%;
+}
+
+.fontWeight {
+  font-weight: 700;
+}
+
+ .navbar {
+  border-bottom: 1px solid #E5E5E5;
+  box-shadow: 0px 0.2px 2px;
+}
+
+  .Delivery {
+    color: #D71F20;
+  }
+
+
+.home {
+  background-image: url("../src/images/HeroSectionImage.svg ");
+  /* background-size: cover; */
+  background-color: #f7f8fb;
+  background-position-y: bottom;
+  background-position-x: right;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+ background-repeat: no-repeat;
+}
+
+.img1 {
+  float: right;
+ }
+
+ .stats {
+  position: absolute;
+width: 1440px;
+height: 1319px;
+left: 1px;
+top: 750px;
+background: D71F20;
+padding-top: 120px;
+}
+
+ .block2 {
+background: #D71F20;
+padding: 30px;
+padding-right: 100px;
+ }
+
+ /* .Frame333 {
+  height: 100%; 
+  max-width: 1366px;
+ } */
+ 
+ .text {
+   padding-top: 30%;
+  padding-right: 100px;
+  }
+
+  .centerText{
+    text-align: center;
+    padding: 40px;
+  }
+
+  /* .tframe377 {
+    float: left;
+  } */
+
+  .block4 {
+    padding: 20px;
+    background: #F2F2F2;
+  }
+
+  .block5 {
+    padding: 30px;
+  }
+
+  .block5text {
+    padding-top: 50%;
+  }
+
+  .footer {
+    padding: 30px;
+    max-width: 1454px;
+    Height: 300px;
+    left: 0px;
+    bottom: 0px;
+    background: #1B1919;
+    color: #ffffff;
+    }
+
+  .NavendText {
+    text-align: right;
+  }
